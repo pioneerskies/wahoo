@@ -1,4 +1,4 @@
-> Another [Fish][fishshell] Framework
+> Yet Another [Fish][fishshell] Framework
 
 [![][travis-logo]][travis]
 <span align="center">
