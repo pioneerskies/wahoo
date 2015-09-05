@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/fish-shell/wahoo/blob/master/README.md">
-  <img width="100px" src="https://cloud.githubusercontent.com/assets/8317250/8775571/6930d858-2f24-11e5-9629-c3cc833d71e8.png">
+  <img width="100px" src="https://cloud.githubusercontent.com/assets/8317250/9700591/4f7bcd0c-5443-11e5-84cf-f5f01fa8faa6.png">
   </a>
 </p>
 

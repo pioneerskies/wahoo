@@ -1,4 +1,4 @@
-> The [Fish][fishshell] Framework 
+> Another [Fish][fishshell] Framework
 
 <span align="center">
   <a href="http://fishshell.com">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/fish-shell/wahoo/blob/master/README.md">
-  <img width="250px" src="https://cloud.githubusercontent.com/assets/8317250/8775571/6930d858-2f24-11e5-9629-c3cc833d71e8.png">
+  <img width="250px" src="https://cloud.githubusercontent.com/assets/8317250/9700591/4f7bcd0c-5443-11e5-84cf-f5f01fa8faa6.png">
   </a>
 </p>
 
@@ -38,12 +38,11 @@
 
 # About
 
-> :warning: Wahoo is now [Oh My Fish!](https://github.com/fish-shell/oh-my-fish) Please [upgrade](https://github.com/fish-shell/oh-my-fish#install)!
+> :warning: Please upgrade to [Fin](https://github.com/fishline/fin). So long, and thanks for all the fish!
 
-Wahoo was an all-purpose framework for the [fishshell][Fishshell]. It looked after your configuration, themes and packages. It was lightining fast and easy to use.
+Wahoo is an all-purpose framework for the [fishshell][Fishshell]. It looks after your configuration, themes and packages. It is lightning fast and easy to use.
 
-Thank you [everyone](https://github.com/bucaran/wahoo/graphs/contributors) who participated in this project :heart:
-
+Thanks to  [everyone](https://github.com/bucaran/wahoo/graphs/contributors) who participated in this project :heart:
 
 [@gretel](https://github.com/gretel) [@hauleth](https://github.com/hauleth) [@joefiorini](https://github.com/joefiorini) [@bpinto](https://github.com/bpinto) [@scorphus](https://github.com/scorphus) [@cap10morgan](https://github.com/cap10morgan) [@daveyarwood](https://github.com/daveyarwood)
 
