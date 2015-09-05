@@ -1,11 +1,11 @@
 > Another [Fish][fishshell] Framework
 
+[![][travis-logo]][travis]
 <span align="center">
   <a href="http://fishshell.com">
   <img width="20px" src="https://cloud.githubusercontent.com/assets/8317250/8510172/f006f0a4-230f-11e5-98b6-5c2e3c87088f.png">
   </a>
 </span>
-[![][travis-logo]][travis]
 ![][license-badge]
 
 
@@ -38,7 +38,7 @@
 
 # About
 
-> :warning: Please upgrade to [Fin](https://github.com/fishline/fin). So long, and thanks for all the fish!
+> :warning: Please upgrade to **_[Fin](https://github.com/fishline/fin)_**. So long, and thanks for all the fish!
 
 Wahoo is an all-purpose framework for the [fishshell][Fishshell]. It looks after your configuration, themes and packages. It is lightning fast and easy to use.
 
@@ -233,4 +233,4 @@ set -g WAHOO_IGNORE skip this that ...
 [travis-logo]: http://img.shields.io/travis/bucaran/wahoo.svg?style=flat-square
 [travis]: https://travis-ci.org/bucaran/wahoo
 [fishshell]: http://fishshell.com
-[wahoo-pulls-link]: https://github.com/fish-shell/wahoo/pulls
+[wahoo-pulls-link]: https://github.com/bucaran/wahoo/pulls
