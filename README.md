@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/fish-shell/wahoo/blob/master/README.md">
-  <img width="250px" src="https://cloud.githubusercontent.com/assets/8317250/9700591/4f7bcd0c-5443-11e5-84cf-f5f01fa8faa6.png">
+  <img width="250px" src="https://cloud.githubusercontent.com/assets/8317250/9703317/d216df50-54ba-11e5-81b9-8cc92fa3f76a.png">
   </a>
 </p>
 

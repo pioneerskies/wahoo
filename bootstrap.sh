@@ -23,7 +23,6 @@
 #   util_display_success_msg
 #   util_env_can
 #   util_env_osx
-#   util_env_swap_process
 #   lib_fish_install
 #   lib_fish_set_as_default_shell
 #   lib_fish_create_config
@@ -134,14 +133,6 @@ util_env_can() {
 
 util_env_osx() {
   [ "$(uname)" = "Darwin" ]
-}
-
-util_env_swap_process() {
-  if [ "$#" -ne 1 ]; then
-    echo "Usage: util_env_swap_process <process>"
-    exit 1
-  fi
-  exec "$1" < /dev/tty
 }
 
 lib_fish_install() {
@@ -348,10 +339,10 @@ lib_main_run() {
     util_display_success_msg
 
     cd $HOME
+    # Swap process to reload, skip if running inside a CI environment.
 
-    if [ -z ${CI+_} ]; then
-      util_env_swap_process "fish"
-    fi
+    [ ! -z ${CI+_} ] && exit 0
+    exec fish < /dev/tty
   else
     util_log ERROR "Alas, Wahoo failed to install correctly"
     util_log INFO "Please complain here → git.io/wahoo-issues"
