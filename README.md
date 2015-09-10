@@ -230,7 +230,7 @@ set -g WAHOO_IGNORE skip this that ...
 [license]: http://opensource.org/licenses/MIT
 [license-badge]: https://img.shields.io/badge/license-MIT-FF3157.svg?style=flat-square
 [contributors]: https://github.com/fish-shell/wahoo/graphs/contributors
-[travis-logo]: http://img.shields.io/travis/bucaran/wahoo.svg?style=flat-square
+[travis-logo]: http://img.shields.io/travis/wa/wahoo.svg?style=flat-square
 [travis]: https://travis-ci.org/wa/wahoo
 [fishshell]: http://fishshell.com
 [wahoo-pulls-link]: https://github.com/bucaran/wahoo/pulls
