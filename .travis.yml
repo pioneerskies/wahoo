@@ -1,9 +1,11 @@
 language: c
 os:
   - linux
-  - osx
-sudo: required
-script:
-  - echo "Wahoo Framework"
-before_install:
-  - curl -L git.io/wa | sh
+sudo: false
+addons:
+  apt:
+    packages:
+    - tree
+    - fish
+before_script: pwd; tree -h
+script: /bin/sh ./bootstrap.sh
