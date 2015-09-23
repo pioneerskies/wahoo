@@ -1,23 +1,29 @@
 > Yet Another [Fish][fishshell] Framework
 
 [![][travis-logo]][travis]
-<span align="center">
-  <a href="http://fishshell.com">
-  <img width="20px" src="https://cloud.githubusercontent.com/assets/8317250/8510172/f006f0a4-230f-11e5-98b6-5c2e3c87088f.png">
-  </a>
-</span>
 ![][license-badge]
 
 
 <a name="wahoo"></a>
 
-<br>
 
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/fish-shell/wahoo/blob/master/README.md">
   <img width="250px" src="https://cloud.githubusercontent.com/assets/8317250/9703317/d216df50-54ba-11e5-81b9-8cc92fa3f76a.png">
   </a>
+
+
+</div>
+
+
+<p align="center">
+  <a href="https://gitter.im/fishline/fin?utm_source=share-link&utm_medium=link&utm_campaign=share-link">
+    <img src="https://badges.gitter.im/Join%20Chat.svg">
+  </a>
 </p>
+
+<br>
 
 
 <p align="center">
@@ -42,7 +48,7 @@
 
 Wahoo is an all-purpose framework for the [fishshell][Fishshell]. It looks after your configuration, themes and packages. It is lightning fast and easy to use.
 
-Thanks to  [everyone](https://github.com/bucaran/wahoo/graphs/contributors) who participated in this project :heart:
+Thanks to  [everyone](https://github.com/bucaran/wahoo/graphs/contributors) who has participated in this project :heart:
 
 [@gretel](https://github.com/gretel) [@hauleth](https://github.com/hauleth) [@joefiorini](https://github.com/joefiorini) [@bpinto](https://github.com/bpinto) [@scorphus](https://github.com/scorphus) [@cap10morgan](https://github.com/cap10morgan) [@daveyarwood](https://github.com/daveyarwood)
 
@@ -228,7 +234,7 @@ set -g WAHOO_IGNORE skip this that ...
 
 
 [license]: http://opensource.org/licenses/MIT
-[license-badge]: https://img.shields.io/badge/license-MIT-FF3157.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/license-MIT-0072A5.svg?style=flat-square
 [contributors]: https://github.com/fish-shell/wahoo/graphs/contributors
 [travis-logo]: http://img.shields.io/travis/wa/wahoo.svg?style=flat-square
 [travis]: https://travis-ci.org/wa/wahoo
