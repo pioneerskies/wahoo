@@ -44,7 +44,7 @@
 
 # About
 
-> :warning: Please upgrade to **_[Fin](https://github.com/fishline/fin)_**. So long, and thanks for all the fish!
+> :warning: Support for Wahoo will continue, but we will be upgrading to a new tool, **_[Fin](https://github.com/fishline/fin)_** shortly. So long, and thanks for all the fish!
 
 Wahoo is an all-purpose framework for the [fishshell][Fishshell]. It looks after your configuration, themes and packages. It is lightning fast and easy to use.
 
